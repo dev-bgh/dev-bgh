@@ -2,9 +2,9 @@
 - 👀 I’m interested in Full-Stack Developer
 - 🌱 I’m currently learning JS( react, rn ), Node.js, 
 - 💞️ I’m looking to collaborate on all
-- 📫 my profile -> https://99geo.tistory.com/ 
+- 📫 my profile ->https://velog.io/@dogbalza/
 
-  contact -> 99geometry@gmail.com
+  contact -> beakkiha@naver.com
 
 <!---
 dev-bgh/dev-bgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
